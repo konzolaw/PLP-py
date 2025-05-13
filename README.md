@@ -22,4 +22,4 @@ A data analysis and visualization project focused on exploring COVID-19 statisti
 
 1. **Clone or download** the repository:
    ```bash
-  
+  git clone https://github.com/konzolaw/PLP-py.git
